@@ -1,0 +1,10 @@
+html *
+{
+	font-size: 1.8em !important;
+	color: #F00 !important;
+	font-family: 'Bowlby One SC', cursive;
+}
+
+h1 {
+	border: 6px solid red;  background-color: orange;
+}
